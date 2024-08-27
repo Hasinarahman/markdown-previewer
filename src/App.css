@@ -13,7 +13,7 @@ body {
 .App {
   width: 100%;
   max-width: 1000px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -66,11 +66,11 @@ body {
     justify-content: space-between;
     padding: 20px;
   }
-  
+
   .textarea {
     width: 46%;
   }
-  
+
   .preview {
     width: 46%;
     margin-top: 1px;
