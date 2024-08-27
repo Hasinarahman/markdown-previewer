@@ -19,7 +19,7 @@ function anotherExample(firstLine, lastLine) {
     return multiLineCode;
   }
 }
-\`\`\`
+\`\`\
 
 You can also make text **bold**... whoa!
 Or _italic_.
