@@ -19,6 +19,8 @@
 
 
 - React
+- React-Markdown
+- css
 - Git
 - GitHub
 
@@ -28,4 +30,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/hasina-rahmani-4a21a9311/overlay/contact-info/)
 - [Email](hasinarahmani548@gmail.com)
-- [GitHub](https://github.com/Hasinarahman/random-quote)
+- [GitHub](https://github.com/Hasinarahman/markdown-previewer/tree/markdown-previewer)
