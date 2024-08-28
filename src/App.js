@@ -52,9 +52,8 @@ And here. | Okay. | I think we get it.
     setMarkdown(e.target.value);
   };
 
-  // Configure marked to interpret carriage returns as line breaks
   marked.setOptions({
-    breaks: true // This makes marked treat single line breaks as <br> elements,
+    breaks: true,
   });
 
   return (
@@ -70,6 +69,7 @@ And here. | Okay. | I think we get it.
         <div
           id="preview"
           className="preview"
+          dangerouslySetInnerHTML={{ __html: marked(markdown) }}
         />
       </div>
     </div>
