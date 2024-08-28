@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { marked } from 'marked';
-import './App.css';  // Importing styles
+import './App.css';
 
 function App() {
   const [markdown, setMarkdown] = useState(`# Welcome to my Markdown Previewer!
@@ -54,7 +54,7 @@ And here. | Okay. | I think we get it.
 
   // Configure marked to interpret carriage returns as line breaks
   marked.setOptions({
-    breaks: true // This makes marked treat single line breaks as <br> elements
+    breaks: true // This makes marked treat single line breaks as <br> elements,
   });
 
   return (
@@ -70,7 +70,7 @@ And here. | Okay. | I think we get it.
         <div
           id="preview"
           className="preview"
-          dangerouslySetInnerHTML={{ __html: marked(markdown) }}
+          SetInnerHTML={{ __html: marked(markdown) }}
         />
       </div>
     </div>
