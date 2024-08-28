@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const [markdown, setMarkdown] = useState(`# Welcome to my Markdown Previewer!
-  
+  ---
 ## This is a sub-heading...
 ### And here's some other cool stuff:
 ---
