@@ -70,7 +70,6 @@ And here. | Okay. | I think we get it.
         <div
           id="preview"
           className="preview"
-          SetInnerHTML={{ __html: marked(markdown) }}
         />
       </div>
     </div>
