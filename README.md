@@ -12,7 +12,8 @@
 
 ### Live Link
 
-[The_live_link_of_this_project]
+
+[The_live_link_of_this_project](https://boisterous-strudel-9b993c.netlify.app/)
 
 ## Technologies and Tools Used 🛠️
 
