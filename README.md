@@ -13,7 +13,7 @@
 ### Live Link
 
 
-[The_live_link_of_this_project](https://boisterous-strudel-9b993c.netlify.app/)
+[The_live_link_of_this_project](https://fluffy-blini-22a06a.netlify.app/)
 
 ## Technologies and Tools Used 🛠️
 
